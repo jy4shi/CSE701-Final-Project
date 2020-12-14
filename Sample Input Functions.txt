@@ -1,0 +1,38 @@
+min
+f(x_1,x_2)=1 - 2*x_1 + x_1^2 + 100*x_1^4 - 200*x_1^2*x_2 + 100*x_2^2  
+initial_point = 0,0
+tolerance = 0.00001
+max_iter = 10000
+
+min
+f(x_1,x_2)=1 - 2*x_1 + x_1^2 + 100*x_1^4 - 200*x_1^2*x_2 + 100*x_2^2  
+initial_point = 10,10
+tolerance = 0.0001
+max_iter = 100000
+
+max
+f(x_1,x_2)=1 - 2*x_1 + x_1^2 + 100*x_1^4 - 200*x_1^2*x_2 + 100*x_2^2  
+initial_point = 10,10
+tolerance = 0.0001
+max_iter = 100000
+
+min
+f(x_1,x_2) = x_1^2 + x_2^2
+initial_point = 10,10
+tolerance = 0.0001
+max_iter = 10000
+
+
+max
+f(x_1,x_2) = - x_1^2 - x_2^2
+initial_point = 100,100
+tolerance = 0.0001
+max_iter = 10000
+
+
+max
+f(x_1,x_2) = x_1^2 - x_2^2
+initial_point = 100,100
+tolerance = 0.0001
+max_iter = 10000
+
