@@ -1,0 +1,5 @@
+min
+f(x_1,x_2)=1 - 2*x_1 + x_1^2 + 100*x_1^4 - 200*x_1^2*x_2 + 100*x_2^2  
+initial_point = 0, 0
+tolerance = 0.000001
+max_iter = 100000

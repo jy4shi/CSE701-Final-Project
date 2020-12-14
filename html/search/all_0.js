@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['err_5ffail_5fto_5fread_5ffunc_5ftxt_0',['err_fail_to_read_func_txt',['../classerr__fail__to__read__func__txt.html',1,'']]],
+  ['err_5ffail_5fto_5fread_5fiter_5ftxt_1',['err_fail_to_read_iter_txt',['../classerr__fail__to__read__iter__txt.html',1,'']]],
+  ['err_5ffail_5fto_5fread_5fresults_5ftxt_2',['err_fail_to_read_results_txt',['../classerr__fail__to__read__results__txt.html',1,'']]],
+  ['err_5finvalid_5ffifth_5fline_3',['err_invalid_fifth_line',['../classerr__invalid__fifth__line.html',1,'']]],
+  ['err_5finvalid_5ffirst_5fline_4',['err_invalid_first_line',['../classerr__invalid__first__line.html',1,'']]],
+  ['err_5finvalid_5ffourth_5fline_5',['err_invalid_fourth_line',['../classerr__invalid__fourth__line.html',1,'']]],
+  ['err_5finvalid_5finitial_5fpoint_6',['err_invalid_initial_point',['../classerr__invalid__initial__point.html',1,'']]],
+  ['err_5finvalid_5flhs_5fpoly_7',['err_invalid_lhs_poly',['../classerr__invalid__lhs__poly.html',1,'']]],
+  ['err_5finvalid_5fmax_5fiter_8',['err_invalid_max_iter',['../classerr__invalid__max__iter.html',1,'']]],
+  ['err_5finvalid_5frhs_5fpoly_9',['err_invalid_rhs_poly',['../classerr__invalid__rhs__poly.html',1,'']]],
+  ['err_5finvalid_5fthird_5fline_10',['err_invalid_third_line',['../classerr__invalid__third__line.html',1,'']]],
+  ['err_5finvalid_5ftolerance_11',['err_invalid_tolerance',['../classerr__invalid__tolerance.html',1,'']]],
+  ['err_5finvalid_5fx_5fvector_12',['err_invalid_x_vector',['../classerr__invalid__x__vector.html',1,'']]],
+  ['err_5fless_5fthan_5f5_5flines_13',['err_less_than_5_lines',['../classerr__less__than__5__lines.html',1,'']]],
+  ['err_5fmissing_5fequal_5fsign_14',['err_missing_equal_sign',['../classerr__missing__equal__sign.html',1,'']]],
+  ['err_5fmore_5fthan_5f5_5flines_15',['err_more_than_5_lines',['../classerr__more__than__5__lines.html',1,'']]],
+  ['err_5fsize_5fmust_5fmatch_16',['err_size_must_match',['../classerr__size__must__match.html',1,'']]],
+  ['err_5funknown_5falgorithm_17',['err_unknown_algorithm',['../classerr__unknown__algorithm.html',1,'']]],
+  ['error_5fhandling_2ehpp_18',['Error_Handling.hpp',['../_error___handling_8hpp.html',1,'']]],
+  ['eval_5fdf_19',['eval_df',['../class_polynomial.html#a385afe0705372ab01a2ade7f0df8a218',1,'Polynomial']]],
+  ['eval_5ff_20',['eval_f',['../class_polynomial.html#a55439a39510b3e2e47b7825269cab7f1',1,'Polynomial']]]
+];
